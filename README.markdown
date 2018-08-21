@@ -57,7 +57,7 @@ Here are some of the documents from Apple that informed the style guide. If some
 
 ## Correctness
 
-Strive to make your code compile without warnings. This rule informs many style decisions such as using `#selector` types instead of string literals.
+Strive to make your code compile without warnings.
 
 ## Naming
 
