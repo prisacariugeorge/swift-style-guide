@@ -1,5 +1,15 @@
 Our overarching goals are clarity, consistency and brevity, in that order.
 
+## Background
+
+Here are some of the documents from Apple that informed the style guide. If something isn't mentioned here, it's probably covered in great detail in one of these:
+
+* [The swift programming language](https://docs.swift.org/swift-book/)
+* [Cocoa Fundamentals Guide](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/CocoaFundamentals/Introduction/Introduction.html#//apple_ref/doc/uid/TP40002974-CH1-SW1)
+* [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/)
+* [iOS App Programming Guide](https://developer.apple.com/library/archive/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40007072-CH1-SW1)
+* [API Design Guidelines](https://swift.org/documentation/api-design-guidelines/)
+
 ## Table of Contents
 
 * [Correctness](#correctness)
