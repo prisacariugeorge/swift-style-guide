@@ -89,6 +89,10 @@ Descriptive and consistent naming makes software easier to read and understand. 
 - labeling closure and tuple parameters
 - taking advantage of default parameters
 
+## GIT Organization
+
+Add [EOSMAP-xxxxx] in front of a commit message when developing without a branch. This will sync with JIRA story on stash.
+
 ### Prose
 
 When referring to methods in prose, being unambiguous is critical. To refer to a method name, use the simplest form possible.
